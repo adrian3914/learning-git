@@ -1,3 +1,4 @@
 # learning-git
 
-Learning how to use git. course in amigoscode
+This repo was used to learn git from Amigoscode
+
